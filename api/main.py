@@ -9,7 +9,8 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 from groq import Groq
-from typing import Optional
+from typing import Optional # sanketsaraf hello
+
 
 # Set up Groq API client
 client = Groq(api_key="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")
